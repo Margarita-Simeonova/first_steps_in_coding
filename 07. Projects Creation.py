@@ -1,5 +1,8 @@
+ONE_PROJECT_TIME = 3
+
+
 def project_creation(name: str, projects_count: int):
-    ONE_PROJECT_TIME = 3
+
     total_time = projects_count * ONE_PROJECT_TIME
     result = (f"The architect {name} will need "
               f"{total_time} hours to complete {projects_count}"
