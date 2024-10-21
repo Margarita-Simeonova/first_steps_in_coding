@@ -9,8 +9,7 @@ Tasks:
 
 ########
 
-2. 
-Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
+2. Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
 
 ########
 
