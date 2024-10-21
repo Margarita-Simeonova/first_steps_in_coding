@@ -5,11 +5,13 @@ Lesson "First steps in coding - Lab"
 
 Tasks:
 
-1. Print Hello SoftUni
+01. Hello SoftUni:
+    Print Hello SoftUni
 
 ########
 
-2. Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
+02. Nums 1...10:
+    Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
 
 ########
 
