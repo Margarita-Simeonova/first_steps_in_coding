@@ -20,4 +20,4 @@ Write a console program that inputs an integer 'a' and calculates the area of a 
 
 ########
 
-Lesson "First steps in coding - Exercise"
+# Lesson "First steps in coding - Exercise"
