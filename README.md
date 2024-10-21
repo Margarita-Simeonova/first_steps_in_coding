@@ -1,6 +1,6 @@
 Getting started in learning Python. Learning syntax.
 
-#Lesson "First steps in coding - Lab"
+# Lesson "First steps in coding - Lab"
 
 
 Tasks:
