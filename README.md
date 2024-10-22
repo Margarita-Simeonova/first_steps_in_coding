@@ -25,5 +25,10 @@ Write a program that reads from the console a number (real) and converts the num
 
 ########
 
+5. Greeting by Name:
+Write a program that reads a person's name from the console and prints "Hello, {name}!", where {name} is the name entered from the console.
+
+########
+
 
 # Lesson "First steps in coding - Exercise"
