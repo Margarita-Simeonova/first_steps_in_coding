@@ -1,9 +1,9 @@
-Getting started in learning Python. Learning syntax.
+## Getting started in learning Python. Learning syntax.
 
 # Lesson "First steps in coding - Lab"
 
 
-Tasks:
+### Tasks:
 
 1. Hello SoftUni:
     Print Hello SoftUni
