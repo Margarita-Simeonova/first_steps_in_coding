@@ -98,4 +98,11 @@ Use a fixed exchange rate between the dollar and the lev: 1 = 1.79549.
 
 ########
 
+2. Console converter:
+   
+From radians to degrees Write a program that reads an angle in radians () and converts it to degrees (). Print the resulting degrees as an integer using math.floor
+
+Use the formula: degrees = radians * 180 / pi. The number in can be accessed via the module. To use its functionality, you must first turn on the constata.
+
+########
 
