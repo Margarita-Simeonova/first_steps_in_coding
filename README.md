@@ -48,5 +48,24 @@ Input:
 
 ########
 
+8. Pet Shop:
+Write a program that calculates the costs needed to buy food for dogs and other animals. One pack of dog food is priced at BGN 2.50, and each other that is not for them costs BGN 4.
+
+Input:
+
+2 lines are read from the console:
+
+1. The number of dogs - integer number;
+
+2. The number of remaining animals - a integer number.
+
+Output:
+
+The console prints:
+
+"{final amount} lv."
+
+########
+
 
 # Lesson "First steps in coding - Exercise"
