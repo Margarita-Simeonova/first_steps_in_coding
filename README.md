@@ -38,6 +38,15 @@ Write a program that reads first name, last name, age, and city from the console
 7. Projects Creation:
 Write a program that calculates how many hours it will take an architect to prepare the designs of several construction sites. It takes three hours to prepare one project.
 
+Input:
+
+2 lines are read from the console:
+
+1. The name of the architect - text;
+
+2. Number of projects – integer.
+
 ########
+
 
 # Lesson "First steps in coding - Exercise"
