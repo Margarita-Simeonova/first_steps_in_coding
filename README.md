@@ -102,6 +102,28 @@ Use a fixed exchange rate between the dollar and the lev: 1 = 1.79549.
    
 From radians to degrees Write a program that reads an angle in radians () and converts it to degrees (). Print the resulting degrees as an integer using math.floor
 
+########
+
+3. Calculator deposits
+
+Write a program that calculates how much you will receive at the end of the deposit period at a given interest rate. Use the following formula:
+
+amount = deposited amount + term of the deposit * ((deposited amount * annual interest rate ) / 12)
+
+Input:
+
+3 lines are read from the console:
+
+1. Amount deposited – real number;
+
+2. Term of the deposit (in months) – whole number;
+
+3. Annual interest rate – real number;
+
+Output:
+
+To print the amount at the end of the term on the console.
+
 Use the formula: degrees = radians * 180 / pi. The number in can be accessed via the module. To use its functionality, you must first turn on the constata.
 
 ########
