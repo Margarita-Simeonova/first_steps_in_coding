@@ -20,4 +20,10 @@ Write a console program that inputs an integer 'a' and calculates the area of a 
 
 ########
 
+4. Inches to Centimeters:
+Write a program that reads from the console a number (real) and converts the number from inches to centimeters. To do this, multiply the inches by 2.54 (because 1 inch = 2.54 centimeters).
+
+########
+
+
 # Lesson "First steps in coding - Exercise"
