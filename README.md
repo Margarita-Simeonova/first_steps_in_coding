@@ -67,5 +67,25 @@ The console prints:
 
 ########
 
+9. Landscaping of yards
+
+Bozhidara has several houses on the Black Sea and wants to landscape the yards of some of them, thus creating a cozy atmosphere and comfort for his guests. For this purpose, she hired a company.
+
+Write a program that calculates the necessary funds that Bozhidara will have to pay to the company executing the project. The price per square meter is BGN 7.61 including VAT. Since her yard is quite large, the contractor offers an 18% discount on the final price.
+
+Input:
+
+Only one line is read from the console:
+
+1. Sq. meters that will be landscaped - a real number.
+
+Output:
+
+Two lines are printed to the console:
+
+· "The final price is: {final price of the service} lv."
+
+· "The discount is: {discount} lv."
+___________________________________________________________________________________
 
 # Lesson "First steps in coding - Exercise"
