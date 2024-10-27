@@ -128,3 +128,12 @@ Use the formula: degrees = radians * 180 / pi. The number in can be accessed via
 
 ########
 
+4. Mandatory literature:
+   
+There are a number of books on Joro's must-read list for summer vacation. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours a day he should spend to read the necessary literature
+
+Input:
+3 lines are read from the console:
+ 1. Number of pages in the current book - an integer in the range [1…1000]
+ 2. Pages read in 1 hour - an integer in the range [1…1000]
+ 3. The number of days for which he should read the book - an integer in the range [1…1000]
