@@ -137,3 +137,19 @@ Input:
  1. Number of pages in the current book - an integer in the range [1…1000]
  2. Pages read in 1 hour - an integer in the range [1…1000]
  3. The number of days for which he should read the book - an integer in the range [1…1000]
+
+########
+
+5. Study materials:
+   
+The school year has already started and the teacher of class 10B - Annie has to buy a certain number of packets of chemicals, packets of markers, as well as blackboard cleaner. She is a regular customer of a bookstore, so there is a discount for her, which is some percentage of the total amount. Write a program that calculates how much money Annie will need to raise to pay the bill, given the following price list:
+ • Package of chemicals - BGN 5.80.
+ • Pack of markers - BGN 7.20.
+ • Detergent - BGN 1.20 (per liter)
+
+Input&
+4 numbers are read from the console:
+ • Number of chemical packages - an integer in the interval [0...100]
+ • Number of tag packets - an integer in the interval [0...100]
+ • Liters of chalkboard cleaner - an integer in the range [0…50]
+ • Percent reduction - an integer in the interval [0...100]
