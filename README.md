@@ -147,9 +147,13 @@ The school year has already started and the teacher of class 10B - Annie has to 
  • Pack of markers - BGN 7.20.
  • Detergent - BGN 1.20 (per liter)
 
-Input&
+Input:
+
 4 numbers are read from the console:
  • Number of chemical packages - an integer in the interval [0...100]
  • Number of tag packets - an integer in the interval [0...100]
  • Liters of chalkboard cleaner - an integer in the range [0…50]
  • Percent reduction - an integer in the interval [0...100]
+Output:
+
+To print on the console how much money Annie will need to pay her bill.
