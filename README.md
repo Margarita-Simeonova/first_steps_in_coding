@@ -151,6 +151,25 @@ Input:
 
 4 numbers are read from the console:
  • Number of chemical packages - an integer in the interval [0...100]
+
+ ########
+
+ 6. Repainting
+Rumen wants to repaint the living room and has hired craftsmen for this purpose. Write a program that calculates the cost of the repair given the following prices:
+ • Protective nylon - BGN 1.50 per square meter
+ • Paint - BGN 14.50 per liter
+ • Paint thinner - BGN 5.00 per liter
+Just in case, to the necessary materials, Rumen wants to add another 10% of the amount of paint and 2 sq.m. nylon, of course, and BGN 0.40 for bags. The amount paid to craftsmen for 1 hour of work is equal to 30% of the sum of all material costs.
+Input:
+
+The input is read from the console and contains exactly 4 lines:
+ 1. Required amount of nylon (in square meters) - an integer in the interval [1... 100]
+ 2. Required amount of paint (in liters) - an integer in the interval [1…100]
+ 3. Amount of thinner (in liters) - an integer in the interval [1…30]
+ 4. The hours for which the craftsmen will complete the work - an integer in the interval [1…9]
+
+To print one line to the console:
+ • "{sum of all costs}"
  • Number of tag packets - an integer in the interval [0...100]
  • Liters of chalkboard cleaner - an integer in the range [0…50]
  • Percent reduction - an integer in the interval [0...100]
