@@ -18,6 +18,7 @@
 ########
 
 3. Rectangle Area:
+   
 Write a console program that inputs an integer 'a' and calculates the area of a square with side 'a'.
 
 ########
