@@ -70,7 +70,7 @@ The console prints:
 
 ########
 
-9. Landscaping of yards
+9. Landscaping of yards:
 
 Bozhidara has several houses on the Black Sea and wants to landscape the yards of some of them, thus creating a cozy atmosphere and comfort for his guests. For this purpose, she hired a company.
 
