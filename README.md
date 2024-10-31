@@ -125,9 +125,7 @@ Input:
 
 Output:
 
-To print the amount at the end of the term on the console.
-
-Use the formula: degrees = radians * 180 / pi. The number in can be accessed via the module. To use its functionality, you must first turn on the constata.
+Print the amount at the end of the term on the console.
 
 ########
 
