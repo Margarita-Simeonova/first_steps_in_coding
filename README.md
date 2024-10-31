@@ -235,16 +235,23 @@ To print on the console what Jesse's expenses will be if he starts playing baske
 
 ########
 
-9. Aquarium
+9. Aquarium:
+    
 For his birthday, Lubomir received an aquarium in the shape of a parallelepiped. Initially, we read from the console in separate lines its dimensions - length, width and height in centimeters. It is necessary to calculate how many liters of water the aquarium will collect, if it is known that a certain percentage of its capacity is occupied by sand, plants, heater and pump.
 One liter of water equals one cubic decimeter/ 1l=1 dm3/.
 Write a program that calculates the liters of water needed to fill the aquarium.
-Login
+
+Input:
+
 4 lines are read from the console:
+
  1. Length in cm – an integer in the range [10 … 500]
  2. Width in cm – an integer in the interval [10 … 300]
  3. Height in cm - an integer in the range [10… 200]
  4. Percentage – a real number in the interval [0.000 … 100.000]
-Exit
+
+Output:
+
 To print a number to the console:
+
  • the liters of water that the aquarium will collect.
