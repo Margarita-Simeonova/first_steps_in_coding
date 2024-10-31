@@ -95,7 +95,7 @@ ________________________________________________________________________________
 
 1. Console converter:
 
-Write a program to convert US dollars () to Bulgarian leva ().
+Write a program to convert US dollars (USD) to Bulgarian leva (BGN).
 
 Use a fixed exchange rate between the dollar and the lev: 1 = 1.79549.
 
