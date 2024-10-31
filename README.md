@@ -191,9 +191,7 @@ To print one line to the console:
 A restaurant opens its doors and offers several menus at preferential prices:
 
  • Chicken menu – BGN 10.35.
- 
  • Fish menu – BGN 12.40.
- 
  • Vegetarian menu – BGN 8.15.
  
 Write a program that calculates how much it will cost a group of people to order takeout.
@@ -205,7 +203,9 @@ Input:
 3 lines are read from the console:
 
  • Number of chicken menus - an integer in the range [0 … 99]
+ 
  • Number of fish menus - an integer in the range [0 … 99]
+ 
  • Number of vegetarian menus - an integer in the range [0 … 99]
  
 Output:
