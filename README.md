@@ -153,7 +153,11 @@ The school year has already started and the teacher of class 10B - Annie has to 
 Input:
 
 4 numbers are read from the console:
- • Number of chemical packages - an integer in the interval [0...100]
+
+    • Number of chemical packages - an integer in the interval [0...100]
+    • Number of tag packets - an integer in the interval [0...100]
+    • Liters of chalkboard cleaner - an integer in the range [0…50]
+    • Percent reduction - an integer in the interval [0...100]
 
  ########
 
