@@ -8,4 +8,5 @@ def vacation_books_list(pages_in_book, pages_per_hour, days):
 book_pages = int(input())
 pages = int(input())
 days = int(input())
-print(vacation_books_list(book_pages, pages, days))
+result = vacation_books_list(book_pages, pages, days)
+print(result)
