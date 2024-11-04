@@ -6,4 +6,5 @@ def convertor(inches_value):
 
 inches_value_arg = float(input())
 result = convertor(inches_value_arg)
+
 print(result)
