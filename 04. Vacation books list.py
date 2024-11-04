@@ -9,4 +9,5 @@ book_pages = int(input())
 pages = int(input())
 days = int(input())
 result = vacation_books_list(book_pages, pages, days)
+
 print(result)
