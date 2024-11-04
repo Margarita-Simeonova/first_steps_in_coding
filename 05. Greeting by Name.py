@@ -6,4 +6,5 @@ def greeting_by_name(name):
 
 name_arg = input()
 result = greeting_by_name(name_arg)
+
 print(result)
