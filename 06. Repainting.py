@@ -17,4 +17,6 @@ nylon = int(input())
 paint = int(input())
 thinner = int(input())
 hours = int(input())
-print(repainting(nylon, paint, thinner, hours))
+result = repainting(nylon, paint, thinner, hours)
+
+print(result)
