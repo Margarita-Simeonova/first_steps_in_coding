@@ -8,4 +8,6 @@ def usd_to_bgn(dollars):
 
 
 dollars_count = float(input())
-print(usd_to_bgn(dollars_count))
+result = usd_to_bgn(dollars_count)
+
+print(result)
