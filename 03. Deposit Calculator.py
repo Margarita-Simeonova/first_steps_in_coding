@@ -8,4 +8,6 @@ def deposit_calculator(deposit_sum, period_in_mounts, interest_rate):
 deposit = float(input())
 mounts = int(input())
 percent = float(input())
-print(deposit_calculator(deposit, mounts, percent))
+result = deposit_calculator(deposit, mounts, percent)
+
+print(result)
