@@ -9,4 +9,6 @@ def radians_to_degrees(rad):
 
 
 radians = float(input())
-print(radians_to_degrees(radians))
+result = radians_to_degrees(radians)
+
+print(result)
