@@ -11,4 +11,5 @@ def pet_shop(dogs_food_count, cats_food_count):
 dogs_food_count_arg = int(input())
 cats_food_count_arg = int(input())
 result = pet_shop(dogs_food_count_arg, cats_food_count_arg)
+
 print(result)
