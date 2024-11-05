@@ -16,4 +16,6 @@ def food_delivery(chicken_menu_count, fish_menu_count, vegetarian_menu_count):
 chicken_count = int(input())
 fish_count = int(input())
 vegetarian_count = int(input())
-print(food_delivery(chicken_count, fish_count, vegetarian_count))
+result = food_delivery(chicken_count, fish_count, vegetarian_count)
+
+print(result)
