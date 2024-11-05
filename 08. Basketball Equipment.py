@@ -1,4 +1,5 @@
 def basketball_equipment(subscription):
+    
     sneakers_price = subscription * 0.6
     equipment_price = sneakers_price - (sneakers_price * 0.2)
     ball_price = equipment_price / 4
