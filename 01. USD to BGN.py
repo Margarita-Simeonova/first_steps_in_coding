@@ -7,6 +7,7 @@ def usd_to_bgn(dollars):
     return bgn
 
 
+#get input
 dollars_count = float(input())
 result = usd_to_bgn(dollars_count)
 
