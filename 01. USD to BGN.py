@@ -11,4 +11,5 @@ def usd_to_bgn(dollars):
 dollars_count = float(input())
 result = usd_to_bgn(dollars_count)
 
+#print result
 print(result)
