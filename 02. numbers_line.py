@@ -8,7 +8,7 @@ def numbers_line():
 numbers_line()
 
 #############
-
+#second opption
 def nums_line(start_num):
     
     for n in range(start_num, start_num + 10):
