@@ -13,6 +13,7 @@ numbers_line()
 #second opption
 def nums_line(start_num):
     # numbers from numb_x to numb_x + 10
+    
     for n in range(start_num, start_num + 10):
         print(n)
 
