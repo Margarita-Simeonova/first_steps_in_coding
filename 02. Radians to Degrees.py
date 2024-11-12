@@ -2,7 +2,7 @@ import math
 
 
 def radians_to_degrees(rad):
-  
+  #calculate radians to degrees
   
     degrees = rad * 180 / math.pi
 
