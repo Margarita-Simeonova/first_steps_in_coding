@@ -6,6 +6,7 @@ def deposit_calculator(deposit_sum, period_in_mounts, interest_rate):
     return total_sum
 
 
+# input from console
 deposit = float(input())
 mounts = int(input())
 percent = float(input())
