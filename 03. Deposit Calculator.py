@@ -12,4 +12,5 @@ mounts = int(input())
 percent = float(input())
 result = deposit_calculator(deposit, mounts, percent)
 
+# print result
 print(result)
