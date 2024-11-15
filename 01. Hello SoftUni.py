@@ -1,6 +1,7 @@
 #First program.
 
 def print_text(text):
+    # printing text func
     return text
 
 
