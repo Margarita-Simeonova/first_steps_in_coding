@@ -12,15 +12,17 @@ def numbers_line():
 numbers_line()
 
 #############
-#second opption
+# second opption
 def nums_line(start_num):
     # numbers from numb_x to numb_x + 10
     
     for n in range(start_num, start_num + 10):
         # print number
+        
         print(n)
 
 
 # return line of numbers
 number = 1
+# call func
 nums_line(number)
