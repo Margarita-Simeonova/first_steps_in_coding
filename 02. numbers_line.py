@@ -1,12 +1,14 @@
-#first option
+# first option
 def numbers_line():
     # numbers from 1 to 10
     
     for n in range(1, 11):
         # print number
+        
         print(n)
 
 
+# call func
 numbers_line()
 
 #############
