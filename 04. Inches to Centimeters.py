@@ -5,6 +5,7 @@ def convertor(inches_value):
     return centimeters
 
 
+# take input
 inches_value_arg = float(input())
 result = convertor(inches_value_arg)
 
