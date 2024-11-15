@@ -4,7 +4,7 @@ def print_text(text):
     return text
 
 
-#get input
+# input text
 printed_text = "Hello SoftUni"
 
 print(print_text(printed_text))
