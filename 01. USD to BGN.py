@@ -2,6 +2,8 @@ ONE_DOLLAR_PRICE = 1.79549
 
 
 def usd_to_bgn(dollars):
+    # calculate func
+    
     bgn = dollars * ONE_DOLLAR_PRICE
 
     return bgn
