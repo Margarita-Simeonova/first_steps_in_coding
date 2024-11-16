@@ -13,4 +13,5 @@ days = int(input())
 
 result = vacation_books_list(book_pages, pages, days)
 
+# output
 print(result)
