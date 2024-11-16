@@ -6,6 +6,7 @@ def vacation_books_list(pages_in_book, pages_per_hour, days):
     return days_needed
 
 
+# input
 book_pages = int(input())
 pages = int(input())
 days = int(input())
