@@ -1,5 +1,5 @@
 def vacation_books_list(pages_in_book, pages_per_hour, days):
-    # count days need
+    # count days func
     
     days_needed = int((pages_in_book / pages_per_hour) / days)
 
