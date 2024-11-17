@@ -137,9 +137,9 @@ Input:
 
 3 lines are read from the console:
 
- 1. Number of pages in the current book - an integer in the range [1…1000]
- 2. Pages read in 1 hour - an integer in the range [1…1000]
- 3. The number of days for which he should read the book - an integer in the range [1…1000]
+ 1. Number of pages in the current book - an integer
+ 2. Pages read in 1 hour - an integer
+ 4. The number of days for which he should read the book - an integer
 
 ########
 
