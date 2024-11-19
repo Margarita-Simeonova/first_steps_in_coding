@@ -245,11 +245,10 @@ Input:
 
 4 lines are read from the console:
 
- 1. Length in cm – an integer in the range [10 … 500]
- 2. Width in cm – an integer in the interval [10 … 300]
- 3. Height in cm - an integer in the range [10… 200]
- 4. Percentage – a real number in the interval [0.000 … 100.000]
-
+ 1. Length in cm – an integer
+ 2. Width in cm – an integer
+ 3. Height in cm - an integer
+ 4. Percentage – a real number
 Output:
 
 To print a number to the console:
