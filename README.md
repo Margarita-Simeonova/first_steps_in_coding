@@ -174,7 +174,7 @@ Input:
 
 The input is read from the console and contains exactly 4 lines:
 
- 1. Required amount of nylon (in square meters) - an integer in the interval [1... 100]
+ 1. Required amount of nylon (in square meters) - an integer
  2. Required amount of paint (in liters) - an integer in the interval [1…100]
  3. Amount of thinner (in liters) - an integer in the interval [1…30]
  4. The hours for which the craftsmen will complete the work - an integer in the interval [1…9]
