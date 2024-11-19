@@ -202,11 +202,11 @@ Input:
 
 3 lines are read from the console:
 
- • Number of chicken menus - an integer in the range [0 … 99]
+ • Number of chicken menus - an integer
  
- • Number of fish menus - an integer in the range [0 … 99]
+ • Number of fish menus - an integer
  
- • Number of vegetarian menus - an integer in the range [0 … 99]
+ • Number of vegetarian menus - an integer
  
 Output:
 
