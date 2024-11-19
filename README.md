@@ -227,7 +227,7 @@ Input:
 
 1 line is read from the console:
 
- • The annual fee for basketball training - an integer in the range [0… 9999]
+ • The annual fee for basketball training - an integer
  
 Output:
 
