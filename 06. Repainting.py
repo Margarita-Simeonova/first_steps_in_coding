@@ -1,3 +1,4 @@
+# define global variables
 NYLON_PRICE = 1.5
 PAINT_PRICE = 14.5
 THINNER_PRICE = 5
@@ -10,13 +11,16 @@ def repainting(nylon, paint_litres, thinner_litres, hours_to_work):
     workers_salary = (materials_price * 0.3) * hours_to_work
     total_expense = materials_price + workers_salary
 
+    # return result
     return total_expense
 
 
+# get input from console
 nylon = int(input())
 paint = int(input())
 thinner = int(input())
 hours = int(input())
 result = repainting(nylon, paint, thinner, hours)
 
+# print result
 print(result)
