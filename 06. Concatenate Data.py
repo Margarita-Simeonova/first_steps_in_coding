@@ -12,4 +12,5 @@ age_arg = int(input())
 town_arg = input()
 result = concatenate_data(first_name_arg, last_name_arg, age_arg, town_arg)
 
+# print result
 print(result)
