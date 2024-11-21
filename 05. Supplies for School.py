@@ -14,10 +14,12 @@ def supplies_for_school(pens_pack_count, markers_pack_count, detergent_litres, d
     return total_price
 
 
+# get input from console
 pens = int(input())
 markers = int(input())
 detergent = int(input())
 percent = float(input())
 result = supplies_for_school(pens, markers, detergent, percent)
 
+# print result
 print(result)
