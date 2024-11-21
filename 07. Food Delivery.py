@@ -1,3 +1,4 @@
+# define the global varible
 CHICKEN_MENU = 10.35
 FISH_MENU = 12.4
 VEGETARIAN_MENU = 8.15
