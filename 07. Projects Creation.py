@@ -1,3 +1,4 @@
+# define the global varieble
 ONE_PROJECT_TIME = 3
 
 
