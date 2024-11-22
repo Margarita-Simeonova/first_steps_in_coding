@@ -7,9 +7,11 @@ def basketball_equipment(subscription):
 
     total_expenses = subscription + sneakers_price + equipment_price + ball_price + accessories_price
 
+    # return result
     return total_expenses
 
 
+# input from console
 tax = float(input())
 result = basketball_equipment(tax)
 
