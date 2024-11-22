@@ -15,4 +15,5 @@ def basketball_equipment(subscription):
 tax = float(input())
 result = basketball_equipment(tax)
 
+# print result
 print(result)
