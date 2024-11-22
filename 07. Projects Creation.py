@@ -8,6 +8,8 @@ def project_creation(name: str, projects_count: int):
     result = (f"The architect {name} will need "
               f"{total_time} hours to complete {projects_count}"
               f" project/s.")
+
+    # return result
     return result
 
 
