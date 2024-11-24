@@ -6,10 +6,12 @@ def fish_tank(length, width, height, percent):
     return total_water
 
 
+# take input
 l = int(input())
 w = int(input())
 h = int(input())
 perc = float(input())
+
 result = fish_tank(l, w, h, perc)
 
 print(result)
