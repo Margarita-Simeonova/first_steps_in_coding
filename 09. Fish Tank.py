@@ -15,4 +15,5 @@ perc = float(input())
 # reasult
 result = fish_tank(l, w, h, perc)
 
+# print result
 print(result)
