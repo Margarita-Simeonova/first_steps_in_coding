@@ -9,9 +9,12 @@ def pet_shop(dogs_food_count, cats_food_count):
     return f"{total_price} lv."
 
 
-# 
+# read input
 dogs_food_count_arg = int(input())
 cats_food_count_arg = int(input())
+
+# take result
 result = pet_shop(dogs_food_count_arg, cats_food_count_arg)
+
 
 print(result)
