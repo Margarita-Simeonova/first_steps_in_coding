@@ -5,7 +5,7 @@ def yard_greening(yard_area_in_square_meters):
     total_price = price_without_discount - discount
     result = f"The final price is: {total_price:.2f} lv.\nThe discount is: {discount:.2f} lv."
 
-    #return result
+    # return result
     return result
 
 
