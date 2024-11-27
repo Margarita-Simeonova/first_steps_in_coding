@@ -13,4 +13,5 @@ def yard_greening(yard_area_in_square_meters):
 yard_area_in_square_meters_arg = float(input())
 result = yard_greening(yard_area_in_square_meters_arg)
 
+# print result
 print(result)
