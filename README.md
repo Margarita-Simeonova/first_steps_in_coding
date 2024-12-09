@@ -56,6 +56,7 @@ Input:
 ########
 
 8. Pet Shop:
+   
 Write a program that calculates the costs needed to buy food for dogs and other animals. One pack of dog food is priced at BGN 2.50, and each other that is not for them costs BGN 4.
 
 Input:
