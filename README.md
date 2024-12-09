@@ -36,11 +36,13 @@ Write a program that reads a person's name from the console and prints "Hello, {
 ########
 
 6. Concatenate Data:
+   
 Write a program that reads first name, last name, age, and city from the console and prints a message like this: "You are {first_name} {last_name}, a {age}-years old person from {town}."
 
 ########
 
 7. Projects Creation:
+   
 Write a program that calculates how many hours it will take an architect to prepare the designs of several construction sites. It takes three hours to prepare one project.
 
 Input:
