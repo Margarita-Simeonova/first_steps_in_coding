@@ -162,10 +162,13 @@ Input:
 
 4 numbers are read from the console:
 
-    • Number of chemical packages - an integer
-    • Number of tag packets - an integer
-    • Liters of chalkboard cleaner - an integer
-    • Percent reduction - an integer
+   Number of chemical packages - an integer
+   
+   Number of tag packets - an integer
+   
+   Liters of chalkboard cleaner - an integer
+   
+   Percent reduction - an integer
 
  ########
 
