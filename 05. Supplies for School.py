@@ -1,4 +1,4 @@
-# define the global variable 
+# define the global variableS
 PENS_PACK_PRICE = 5.8
 MARKERS_PACK_PRICE = 7.2
 DETERGENT = 1.2
