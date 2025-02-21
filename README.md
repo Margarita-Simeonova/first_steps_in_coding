@@ -268,6 +268,6 @@ Input:
  4. Percentage – a real number
 Output:
 
-To print a number to the console:
+Print a number to the console:
 
  • the liters of water that the aquarium will collect.
